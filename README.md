@@ -18,4 +18,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
     REACT JS
     OpenWeather API
 
-## this is a responsive  dashboard for weather prediction among differet cities using OpenWeather API 
+## This is a responsive  dashboard for weather prediction among differet cities using OpenWeather API 
